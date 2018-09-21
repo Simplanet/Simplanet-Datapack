@@ -10,7 +10,7 @@
             "item": "minecraft:leather"
         },
         "W": {
-            "item": "minecraft:wool"
+            "item": "simplanet:wool"
         },
         "i": {
             "item": "minecraft:iron_block"
