@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#W#",
+        "#i#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "W": {
+            "item": "minecraft:wool"
+        },
+        "i": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}
