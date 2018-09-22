@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shapeless",
+	"group": "music_disc",
+    "ingredients": [
+        {
+            "tag": "simplanet:music_disc"
+        },
+        {
+            "item": "minecraft:experience_bottle"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_11",
+        "count": 1
+    }
+}
