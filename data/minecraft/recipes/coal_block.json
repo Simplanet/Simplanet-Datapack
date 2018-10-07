@@ -6,8 +6,7 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": [
+    "#": [
       {
         "item": "minecraft:coal"
       },
@@ -15,7 +14,6 @@
         "item": "minecraft:charcoal"
       }
     ]
-    }
   },
   "result": {
     "item": "minecraft:coal_block"
