@@ -7,7 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:charcoal"
+      "item": [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ]
     }
   },
   "result": {
