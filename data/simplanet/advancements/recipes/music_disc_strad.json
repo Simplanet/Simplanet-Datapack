@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "simplanet:music_disc_strad"
+    ]
+  },
+  "criteria": {
+    "has_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "simplanet:music_disc"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "simplanet:music_disc_strad"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_music_disc",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "simplanet:brain_coral"
+    ]
+  },
+  "criteria": {
+    "has_brain_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral_fan"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "simplanet:brain_coral"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_brain_coral_fan",
+      "has_the_recipe"
+    ]
+  ]
+}
