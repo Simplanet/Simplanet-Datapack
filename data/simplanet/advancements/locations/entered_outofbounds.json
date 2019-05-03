@@ -8,28 +8,36 @@
       "trigger": "minecraft:location",
       "conditions": {
 		"dimension": "minecraft:overworld",
-        "z": {"max":-4097}
+        "position": {
+			"z": {"max":-4097}
+		}
       }
     },
     "outofbounds_south": {
       "trigger": "minecraft:location",
       "conditions": {
 		"dimension": "minecraft:overworld",
-        "z": {"min":4097}
+        "position": {
+			"z": {"min":4097}
+		}
       }
     },
     "outofbounds_east": {
       "trigger": "minecraft:location",
       "conditions": {
 		"dimension": "minecraft:overworld",
-        "x": {"min":12289}
+        "position": {
+			"x": {"min":12289}
+		}
       }
     },
     "outofbounds_west": {
       "trigger": "minecraft:location",
       "conditions": {
 		"dimension": "minecraft:overworld",
-        "x": {"max":-4097}
+        "position": {
+			"x": {"max":-4097}
+		}
       }
     }
   },

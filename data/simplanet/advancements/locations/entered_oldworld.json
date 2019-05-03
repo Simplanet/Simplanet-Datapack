@@ -8,8 +8,10 @@
       "trigger": "minecraft:location",
       "conditions": {
 		"dimension": "minecraft:overworld",
-        "x": {"min":-4096, "max":4096},
-        "z": {"min":-4096, "max":4096}
+        "position": {
+			"x": {"min":-4096, "max":4096},
+			"z": {"min":-4096, "max":4096}
+		}
       }
     }
   },
