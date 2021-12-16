@@ -10,7 +10,7 @@
 			"item": "minecraft:string"
 		},
 		"l": {
-			"item": "minecraft:slime"
+			"item": "minecraft:slime_ball"
 		}
 	},
 	"result": {
