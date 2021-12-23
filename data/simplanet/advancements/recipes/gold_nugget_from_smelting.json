@@ -27,7 +27,7 @@
   },
   "requirements": [
     [
-	  "has_heavy_weighted_pressure_plate",
+	  "has_light_weighted_pressure_plate",
       "has_the_recipe"
     ]
   ]
