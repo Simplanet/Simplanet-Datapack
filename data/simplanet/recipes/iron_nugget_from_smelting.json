@@ -9,7 +9,10 @@
     },
     {
       "item": "minecraft:chain"
-    }
+    },
+	{
+		"item": "minecraft:heavy_weighted_pressure_plate"
+	}
   ],
   "result": "minecraft:iron_nugget",
   "experience": 0.1,

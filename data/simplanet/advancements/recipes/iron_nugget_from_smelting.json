@@ -42,6 +42,18 @@
         ]
       }
     },
+    "has_heavy_weighted_pressure_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:heavy_weighted_pressure_plate"
+            ]
+          }
+        ]
+      }
+    },
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
@@ -54,6 +66,7 @@
       "has_shears",
       "has_iron_bars",
       "has_chain",
+	  "has_heavy_weighted_pressure_plate",
       "has_the_recipe"
     ]
   ]
