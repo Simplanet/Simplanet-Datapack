@@ -54,6 +54,18 @@
         ]
       }
     },
+    "has_crossbow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crossbow"
+            ]
+          }
+        ]
+      }
+    },
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
@@ -67,6 +79,7 @@
       "has_iron_bars",
       "has_chain",
 	  "has_heavy_weighted_pressure_plate",
+	  "has_crossbow",
       "has_the_recipe"
     ]
   ]
