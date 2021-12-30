@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "coral_blocks",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+		"#": {
+			"irem": "minecraft:amethyst_shard"
+		},
+        "C": {
+            "item": "minecraft:amethyst_cluster"
+        }
+    },
+    "result": {
+        "item": "minecraft:budding_amethyst",
+        "count": 1
+    }
+}
