@@ -8,7 +8,7 @@
     ],
     "key": {
 		"#": {
-			"irem": "minecraft:amethyst_shard"
+			"item": "minecraft:amethyst_shard"
 		},
         "C": {
             "item": "minecraft:amethyst_cluster"
