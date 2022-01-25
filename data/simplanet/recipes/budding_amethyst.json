@@ -1,6 +1,5 @@
 {
     "type": "crafting_shaped",
-	"group": "coral_blocks",
     "pattern": [
         "###",
         "#C#",
