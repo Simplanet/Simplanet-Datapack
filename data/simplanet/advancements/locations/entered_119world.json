@@ -1,0 +1,33 @@
+{
+	"parent": "simplanet:locations/root",
+	"rewards": {
+		"function": "simplanet:locations/entered_119world"
+	},
+	"criteria": {
+		"119world": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"x": {
+								"min": 4096,
+								"max": 12288
+							},
+							"z": {
+								"min": 4096,
+								"max": 12288
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"119world"
+		]
+	]
+}
