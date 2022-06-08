@@ -1,52 +1,76 @@
 {
-  "parent": "simplanet:locations/root",
-  "rewards": {
-    "function": "simplanet:locations/entered_outofbounds"
-  },
-  "criteria": {
-    "outofbounds_north": {
-      "trigger": "minecraft:location",
-      "conditions": {
-		"dimension": "minecraft:overworld",
-        "position": {
-			"z": {"max":-4097}
+	"parent": "simplanet:locations/root",
+	"rewards": {
+		"function": "simplanet:locations/entered_outofbounds"
+	},
+	"criteria": {
+		"outofbounds_north": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"z": {
+								"max": -4097
+							}
+						}
+					}
+				}
+			}
+		},
+		"outofbounds_south": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"z": {
+								"min": 4097
+							}
+						}
+					}
+				}
+			}
+		},
+		"outofbounds_east": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"x": {
+								"min": 12289
+							}
+						}
+					}
+				}
+			}
+		},
+		"outofbounds_west": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"x": {
+								"max": -4097
+							}
+						}
+					}
+				}
+			}
 		}
-      }
-    },
-    "outofbounds_south": {
-      "trigger": "minecraft:location",
-      "conditions": {
-		"dimension": "minecraft:overworld",
-        "position": {
-			"z": {"min":4097}
-		}
-      }
-    },
-    "outofbounds_east": {
-      "trigger": "minecraft:location",
-      "conditions": {
-		"dimension": "minecraft:overworld",
-        "position": {
-			"x": {"min":12289}
-		}
-      }
-    },
-    "outofbounds_west": {
-      "trigger": "minecraft:location",
-      "conditions": {
-		"dimension": "minecraft:overworld",
-        "position": {
-			"x": {"max":-4097}
-		}
-      }
-    }
-  },
-  "requirements": [
-    [
-      "outofbounds_north",
-      "outofbounds_south",
-      "outofbounds_east",
-      "outofbounds_west"
-    ]
-  ]
+	},
+	"requirements": [
+		[
+			"outofbounds_north",
+			"outofbounds_south",
+			"outofbounds_east",
+			"outofbounds_west"
+		]
+	]
 }

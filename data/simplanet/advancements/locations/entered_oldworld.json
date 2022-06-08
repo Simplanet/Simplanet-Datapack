@@ -1,23 +1,33 @@
 {
-  "parent": "simplanet:locations/root",
-  "rewards": {
-    "function": "simplanet:locations/entered_oldworld"
-  },
-  "criteria": {
-    "oldworld": {
-      "trigger": "minecraft:location",
-      "conditions": {
-		"dimension": "minecraft:overworld",
-        "position": {
-			"x": {"min":-4096, "max":4096},
-			"z": {"min":-4096, "max":4096}
+	"parent": "simplanet:locations/root",
+	"rewards": {
+		"function": "simplanet:locations/entered_oldworld"
+	},
+	"criteria": {
+		"oldworld": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"dimension": "minecraft:overworld",
+						"position": {
+							"x": {
+								"min": -4096,
+								"max": 4096
+							},
+							"z": {
+								"min": -4096,
+								"max": 4096
+							}
+						}
+					}
+				}
+			}
 		}
-      }
-    }
-  },
-  "requirements": [
-    [
-      "oldworld"
-    ]
-  ]
+	},
+	"requirements": [
+		[
+			"oldworld"
+		]
+	]
 }
