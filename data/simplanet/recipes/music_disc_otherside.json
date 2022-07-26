@@ -9,11 +9,11 @@
             "item": "minecraft:experience_bottle"
         },
         {
-            "item": "minecraft:blue_dye"
+            "item": "minecraft:cyan_dye"
         }
     ],
     "result": {
-        "item": "minecraft:music_disc_ward",
+        "item": "minecraft:music_disc_otherside",
         "count": 1
     }
 }

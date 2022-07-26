@@ -9,11 +9,11 @@
             "item": "minecraft:experience_bottle"
         },
         {
-            "item": "minecraft:blue_dye"
+            "item": "minecraft:brown_dye"
         }
     ],
     "result": {
-        "item": "minecraft:music_disc_ward",
+        "item": "minecraft:music_disc_pigstep",
         "count": 1
     }
 }
