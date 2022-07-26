@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "simplanet:music_disc"
+            "tag": "minecraft:music_discs"
           }
         ]
       }
