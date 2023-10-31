@@ -1,0 +1,32 @@
+﻿{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "simplanet:honeycomb"
+    ]
+  },
+  "criteria": {
+    "has_honeycomb_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:honeycomb_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "simplanet:honeycomb"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_honeycomb_block",
+      "has_the_recipe"
+    ]
+  ]
+}
