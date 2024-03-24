@@ -3,7 +3,7 @@
   "cookingtime": 200,
   "experience": 0.15,
   "ingredient": {
-    "tag": "minecraft:cobbled_deepslate"
+    "tag": "minecraft:deepslate"
   },
-  "result": "minecraft:deepslate"
+  "result": "minecraft:cobbled_deepslate"
 }
