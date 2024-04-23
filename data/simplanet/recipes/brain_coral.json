@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:brain_coral",
+        "id": "minecraft:brain_coral",
         "count": 1
     }
 }

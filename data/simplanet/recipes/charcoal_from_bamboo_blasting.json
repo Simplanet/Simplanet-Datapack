@@ -5,5 +5,7 @@
   "ingredient": {
     "tag": "minecraft:bamboo_blocks"
   },
-  "result": "minecraft:charcoal"
+  "result": {
+	  "id": "minecraft:charcoal"
+  }
 }

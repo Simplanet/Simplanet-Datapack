@@ -15,7 +15,7 @@
 		}
 	],
 	"result": {
-		"item": "minecraft:sponge",
+		"id": "minecraft:sponge",
 		"count": 4
 	}
 }

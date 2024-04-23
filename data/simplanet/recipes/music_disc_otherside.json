@@ -13,7 +13,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:music_disc_otherside",
+        "id": "minecraft:music_disc_otherside",
         "count": 1
     }
 }

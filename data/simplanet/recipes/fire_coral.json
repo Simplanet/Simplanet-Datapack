@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:fire_coral",
+        "id": "minecraft:fire_coral",
         "count": 1
     }
 }

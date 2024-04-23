@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:budding_amethyst",
+        "id": "minecraft:budding_amethyst",
         "count": 1
     }
 }
