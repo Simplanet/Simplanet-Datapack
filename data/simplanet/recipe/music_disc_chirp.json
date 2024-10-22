@@ -2,7 +2,7 @@
     "type": "crafting_shapeless",
 	"group": "music_disc",
     "ingredients": [
-        "#minecraft:music_discs",
+        "#simplanet:music_discs",
         "minecraft:experience_bottle",
         "minecraft:red_dye"
     ],
