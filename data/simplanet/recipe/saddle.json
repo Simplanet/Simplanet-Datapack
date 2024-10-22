@@ -6,15 +6,9 @@
         "#i#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:leather"
-        },
-        "W": {
-            "tag": "minecraft:wool"
-        },
-        "i": {
-            "item": "minecraft:iron_block"
-        }
+        "#": "minecraft:leather",
+        "W": "#minecraft:wool",
+        "i": "minecraft:iron_block"
     },
     "result": {
         "id": "minecraft:saddle",

@@ -2,9 +2,7 @@
   "type": "minecraft:blasting",
   "cookingtime": 200,
   "experience": 0.15,
-  "ingredient": {
-    "tag": "minecraft:bamboo_blocks"
-  },
+  "ingredient": "#minecraft:bamboo_blocks",
   "result": {
 	  "id": "minecraft:charcoal"
   }

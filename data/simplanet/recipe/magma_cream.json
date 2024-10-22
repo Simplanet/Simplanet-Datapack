@@ -1,9 +1,7 @@
 ﻿{
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:magma_block"
-        }
+        "minecraft:magma_block"
     ],
     "result": {
         "id": "minecraft:magma_cream",

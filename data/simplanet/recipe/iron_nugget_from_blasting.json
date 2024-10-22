@@ -1,21 +1,11 @@
 {
   "type": "minecraft:blasting",
   "ingredient": [
-    {
-      "item": "minecraft:shears"
-    },
-    {
-      "item": "minecraft:iron_bars"
-    },
-    {
-      "item": "minecraft:chain"
-    },
-	{
-		"item": "minecraft:heavy_weighted_pressure_plate"
-	},
-	{
-		"item": "minecraft:crossbow"
-	}
+    "minecraft:shears",
+    "minecraft:iron_bars",
+    "minecraft:chain",
+	"minecraft:heavy_weighted_pressure_plate",
+	"minecraft:crossbow"
   ],
   "result": {
 	  "id": "minecraft:iron_nugget"

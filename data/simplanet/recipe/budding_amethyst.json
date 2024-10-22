@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-		"#": {
-			"item": "minecraft:amethyst_shard"
-		},
-        "C": {
-            "item": "minecraft:amethyst_cluster"
-        }
+		"#": "minecraft:amethyst_shard",
+        "C": "minecraft:amethyst_cluster"
     },
     "result": {
         "id": "minecraft:budding_amethyst",

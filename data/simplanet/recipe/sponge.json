@@ -1,18 +1,10 @@
 {
 	"type": "crafting_shapeless",
 	"ingredients": [
-		{
-			"tag": "simplanet:coral_blocks"
-		},
-		{
-			"tag": "simplanet:coral_blocks"
-		},
-		{
-			"tag": "simplanet:coral_blocks"
-		},
-		{
-			"tag": "simplanet:coral_blocks"
-		}
+		"#simplanet:coral_blocks",
+		"#simplanet:coral_blocks",
+		"#simplanet:coral_blocks",
+		"#simplanet:coral_blocks"
 	],
 	"result": {
 		"id": "minecraft:sponge",

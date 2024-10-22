@@ -6,9 +6,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:horn_coral_fan"
-        }
+        "#": "minecraft:horn_coral_fan"
     },
     "result": {
         "id": "minecraft:horn_coral",

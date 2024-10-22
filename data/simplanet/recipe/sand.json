@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:stone"
-        },
-        "G": {
-            "item": "minecraft:gravel"
-        }
+        "#": "minecraft:stone",
+        "G": "minecraft:gravel"
     },
     "result": {
         "id": "minecraft:sand",

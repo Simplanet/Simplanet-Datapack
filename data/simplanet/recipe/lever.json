@@ -5,12 +5,8 @@
     "#"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stone"
-    },
-    "X": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:stone",
+    "X": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:lever"

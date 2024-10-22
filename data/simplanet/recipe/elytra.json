@@ -6,21 +6,11 @@
 		"mLm"
 	],
 	"key": {
-		"s": {
-			"item": "minecraft:string"
-		},
-		"m": {
-			"item": "minecraft:phantom_membrane"
-		},
-		"X": {
-			"item": "minecraft:experience_bottle"
-		},
-		"L": {
-			"item": "minecraft:leather"
-		},
-		"D": {
-			"item": "minecraft:diamond_chestplate"
-		}
+		"s": "minecraft:string",
+		"m": "minecraft:phantom_membrane",
+		"X": "minecraft:experience_bottle",
+		"L": "minecraft:leather",
+		"D": "minecraft:diamond_chestplate"
 	},
 	"result": {
 		"id": "minecraft:elytra"
