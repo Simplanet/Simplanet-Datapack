@@ -2,7 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "simplanet:cobbled_deepslate_from_deepslate_blasting"
+      "simplanet:cobbled_deepslate_from_deepslate"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:cobbled_deepslate_from_deepslate_blasting"
+        "recipe": "simplanet:cobbled_deepslate_from_deepslate"
       }
     }
   },
