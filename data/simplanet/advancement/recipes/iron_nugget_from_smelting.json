@@ -30,13 +30,13 @@
         ]
       }
     },
-    "has_chain": {
+    "has_iron_chain": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:chain"
+              "minecraft:iron_chain"
             ]
           }
         ]
@@ -77,7 +77,7 @@
     [
       "has_shears",
       "has_iron_bars",
-      "has_chain",
+      "has_iron_chain",
 	  "has_heavy_weighted_pressure_plate",
 	  "has_crossbow",
       "has_the_recipe"
