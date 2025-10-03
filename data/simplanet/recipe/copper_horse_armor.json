@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+	"group": "horse_armor",
+    "pattern": [
+        "  #",
+        "L#L",
+        "# #"
+    ],
+    "key": {
+        "#": "minecraft:copper_block",
+        "L": "minecraft:leather"
+    },
+    "result": {
+        "id": "minecraft:copper_horse_armor",
+        "count": 1
+    }
+}
