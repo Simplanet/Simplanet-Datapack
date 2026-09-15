@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:smooth_stone_from_blasting"
+        "recipes": "simplanet:smooth_stone_from_blasting"
       }
     }
   },

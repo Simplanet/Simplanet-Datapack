@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "simplanet:charcoal_from_bamboo"
+        "recipes": "simplanet:charcoal_from_bamboo"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:golden_horse_armor"
+        "recipes": "simplanet:golden_horse_armor"
       }
     }
   },

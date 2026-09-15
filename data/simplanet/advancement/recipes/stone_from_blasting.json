@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:stone_from_blasting"
+        "recipes": "simplanet:stone_from_blasting"
       }
     }
   },

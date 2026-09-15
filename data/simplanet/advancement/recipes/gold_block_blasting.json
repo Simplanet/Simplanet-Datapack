@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:gold_block_blasting"
+        "recipes": "simplanet:gold_block_blasting"
       }
     }
   },

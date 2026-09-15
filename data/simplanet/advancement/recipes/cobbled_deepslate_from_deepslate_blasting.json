@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:cobbled_deepslate_from_deepslate_blasting"
+        "recipes": "simplanet:cobbled_deepslate_from_deepslate_blasting"
       }
     }
   },

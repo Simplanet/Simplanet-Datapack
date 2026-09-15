@@ -69,7 +69,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:iron_nugget_from_smelting"
+        "recipes": "simplanet:iron_nugget_from_smelting"
       }
     }
   },

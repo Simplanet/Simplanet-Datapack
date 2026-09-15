@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "simplanet:nether_brick_from_blasting"
+        "recipes": "simplanet:nether_brick_from_blasting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:copper_horse_armor"
+        "recipes": "simplanet:copper_horse_armor"
       }
     }
   },

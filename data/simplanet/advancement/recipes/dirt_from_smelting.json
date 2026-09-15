@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:dirt_from_smelting"
+        "recipes": "simplanet:dirt_from_smelting"
       }
     }
   },

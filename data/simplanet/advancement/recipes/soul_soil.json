@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "simplanet:soul_soil"
+        "recipes": "simplanet:soul_soil"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

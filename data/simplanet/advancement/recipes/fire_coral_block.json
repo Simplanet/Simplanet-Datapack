@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:fire_coral_block"
+        "recipes": "simplanet:fire_coral_block"
       }
     }
   },

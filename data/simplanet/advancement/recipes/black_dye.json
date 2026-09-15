@@ -21,7 +21,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:black_dye"
+        "recipes": "simplanet:black_dye"
       }
     }
   },

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:enchanted_golden_apple"
+        "recipes": "simplanet:enchanted_golden_apple"
       }
     }
   },

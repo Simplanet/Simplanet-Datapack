@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:brain_coral"
+        "recipes": "simplanet:brain_coral"
       }
     }
   },

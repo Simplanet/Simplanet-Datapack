@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "simplanet:charcoal_blasting"
+        "recipes": "simplanet:charcoal_blasting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

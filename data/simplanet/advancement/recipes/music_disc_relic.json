@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "simplanet:music_disc_relic"
+        "recipes": "simplanet:music_disc_relic"
       }
     }
   },

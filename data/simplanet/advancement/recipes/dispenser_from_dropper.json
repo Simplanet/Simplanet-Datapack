@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "simplanet:dispenser_from_dropper"
+        "recipes": "simplanet:dispenser_from_dropper"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
