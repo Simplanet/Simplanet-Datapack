@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:entity",
-  "pools": [
-    {
-      "rolls": 1,
-      "bonus_rolls": 0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:player_head",
-          "modifier": {
-            "type": "minecraft:fill_player_head",
-            "entity": "this"
-          }
-        }
-      ],
-      "condition": {
-        "type": "minecraft:killed_by_player"
-      }
-    }
-  ]
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls": 0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:player_head",
+					"modifier": {
+						"type": "minecraft:fill_player_head",
+						"entity": "this"
+					}
+				}
+			],
+			"condition": {
+				"type": "minecraft:killed_by_player"
+			}
+		}
+	]
 }
